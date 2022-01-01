@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    width: 90%;
+    margin:0 auto ;
+}
+
+header{
+ width:100%;
+ float: left;
+ background-color: gray;
+ border-bottom: 1px solid white;
+ padding: 10px;
+}
+.logo-part{
+    width:20%;
+    float:left;
+}
+.menu-part{
+    width:50%;
+    float:left;
+
+}
+.menu-part nav{
+
+    margin: 18px 50px ;
+}
+.menu-part nav ul{
+
+}
+.menu-part nav ul li{
+
+    display: inline-block;
+
+    margin: 0px 35px;
+}
+.menu-part nav ul li a{
+    font-family: dosis, sans-serif;
+    text-decoration: none;
+    color:white;
+
+    font-weight: bolder;
+
+    font-size: 120%;
+}
+
+
+.button-part button{
+      border: none;
+      border-radius: 15px;
+      background-color: aqua;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      font-family: dosis;
+      font-weight: 700;
+      margin: 4px 2px;
+      cursor: pointer;
+
+
+}
+.button3{
+    background-color: none;
+    border-radius:15px;
+    
+    border: none;
+
+    width:190px;
+
+    padding: 6px 0px;
+
+    font-family: dosis;
+    
+    font-style: bold ;
+
+
+
+}
+.button2{
+    background-color: aqua;
+    
+    border-radius:15px;
+    
+    border: none;
+    
+    width: 190px;
+    
+    padding: 6px;
+    
+    font-family: dosis;
+
+    font-style: bold ;
+
+}
+.hero{
+    width:100%;
+    float:left;
+    background-color: gray;
+    padding: 50px 0px;
+
+}
+.hero-writing-part{
+    width:50%;
+    float:left;
+    font-family: dosis, sans-serif;
+    font-size: 20px;
+
+}
+.hero-img-part{
+    width:50%;
+    float:left;
+    
+}
+
+.hero-part2{
+    width:90%;
+    float: left;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Dosis';
+}
+.hero-part2-img{
+    padding: 25px 5px;
+}
+.feture-box1{
+   width: 100%;
+   margin: auto;
+   padding: 15px 5px;
+   text-align: center;
+   font-family: dosis;
+   font-size: 30px;
+}
+.feature-des{
+    width: 100%;
+    float: left;
+    margin: 30px 0;
+}
+.feature-box{
+    width: 18%;
+    float: left;
+    padding: 20px;
+    box-shadow: 0px 0px 10px #00fff0;
+    border-radius: 20px 0;
+    margin-right: 57px;
+    text-align: center;
+    font-family: dosis;
+}
+
+
